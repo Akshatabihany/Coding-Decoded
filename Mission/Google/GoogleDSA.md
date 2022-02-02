@@ -5,15 +5,15 @@ These questions are intended for those who are preparing for Google.
 | S No  | Question  |  Link | Status | Concept |
 | ------------- | :--------------------: |    :-----------: |  :-----------: |  :-------------: |
 | 1 |	Magic Squares In Grid	| [Link](	https://leetcode.com/problems/magic-squares-in-grid	) | Done | 	Array 
-| 2 |	Longest Line of Consecutive One in Matrix	| [Link](	https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix	) | PENDING | 	Array 
-| 3 |	RLE Iterator	| [Link](	https://leetcode.com/problems/rle-iterator	) | PENDING | 	Array
-| 4 |	Snapshot Array	| [Link](	https://leetcode.com/problems/snapshot-array	) | PENDING | 	Array
-| 5 |	Maximum Sum of Two Non-Overlapping Subarrays	| [Link](	https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays	) | PENDING | 	Array
-| 6 |	My Calendar I	| [Link](	https://leetcode.com/problems/my-calendar-i	) | PENDING | 	Array
-| 7 |	Number of Matching Subsequences	| [Link](	https://leetcode.com/problems/number-of-matching-subsequences	) | PENDING | 	Array
-| 8 |	Next Permutation	| [Link](	https://leetcode.com/problems/next-permutation	) | PENDING | 	Array
-| 9 |	Add to Array-Form of Integer	| [Link](	https://leetcode.com/problems/add-to-array-form-of-integer	) | PENDING | 	Array
-| 10 |	Positions of Large Groups	| [Link](	https://leetcode.com/problems/positions-of-large-groups	) | PENDING | 	Array
+| 2 |	Longest Line of Consecutive One in Matrix	| [Link](	https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix	) | Done | 	Array 
+| 3 |	RLE Iterator	| [Link](	https://leetcode.com/problems/rle-iterator	) | Done | 	Array
+| 4 |	Snapshot Array	| [Link](	https://leetcode.com/problems/snapshot-array	) | Done | 	Array
+| 5 |	Maximum Sum of Two Non-Overlapping Subarrays	| [Link](	https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays	) | Done | 	Array
+| 6 |	My Calendar I	| [Link](	https://leetcode.com/problems/my-calendar-i	) | Done | 	Array
+| 7 |	Number of Matching Subsequences	| [Link](	https://leetcode.com/problems/number-of-matching-subsequences	) | Done | 	Array
+| 8 |	Next Permutation	| [Link](	https://leetcode.com/problems/next-permutation	) | Done | 	Array
+| 9 |	Add to Array-Form of Integer	| [Link](	https://leetcode.com/problems/add-to-array-form-of-integer	) | Done | 	Array
+| 10 |	Positions of Large Groups	| [Link](	https://leetcode.com/problems/positions-of-large-groups	) | Done | 	Array
 | 11 |	Plus One	| [Link](	https://leetcode.com/problems/plus-one	) | PENDING | 	Array
 | 12 |	Shortest Word Distance	| [Link](	https://leetcode.com/problems/shortest-word-distance	) | PENDING | 	Array
 | 13 |	First Missing Positive	| [Link](	https://leetcode.com/problems/first-missing-positive	) | PENDING | 	Array
