@@ -14,15 +14,15 @@ These questions are intended for those who are preparing for Google.
 | 8 |	Next Permutation	| [Link](	https://leetcode.com/problems/next-permutation	) | Done | 	Array
 | 9 |	Add to Array-Form of Integer	| [Link](	https://leetcode.com/problems/add-to-array-form-of-integer	) | Done | 	Array
 | 10 |	Positions of Large Groups	| [Link](	https://leetcode.com/problems/positions-of-large-groups	) | Done | 	Array
-| 11 |	Plus One	| [Link](	https://leetcode.com/problems/plus-one	) | PENDING | 	Array
-| 12 |	Shortest Word Distance	| [Link](	https://leetcode.com/problems/shortest-word-distance	) | PENDING | 	Array
-| 13 |	First Missing Positive	| [Link](	https://leetcode.com/problems/first-missing-positive	) | PENDING | 	Array
-| 14 |	Majority Element II	| [Link](	https://leetcode.com/problems/majority-element-ii	) | PENDING | 	Array
-| 15 |	Valid Mountain Array	| [Link](	https://leetcode.com/problems/valid-mountain-array	) | PENDING | 	Array
-| 16 |	Pascal's Triangle	| [Link](	https://leetcode.com/problems/pascals-triangle	) | PENDING | 	Array
-| 17 |	Max Consecutive Ones	| [Link](	https://leetcode.com/problems/max-consecutive-ones	) | PENDING | 	Array
-| 18 |	Product of Array Except Self	| [Link](	https://leetcode.com/problems/product-of-array-except-self	) | PENDING | 	Array
-| 19 |	Shuffle an Array	| [Link](	https://leetcode.com/problems/shuffle-an-array	) | PENDING | 	Array
+| 11 |	Plus One	| [Link](	https://leetcode.com/problems/plus-one	) | Done | 	Array
+| 12 |	Shortest Word Distance	| [Link](	https://leetcode.com/problems/shortest-word-distance	) | Done | 	Array
+| 13 |	First Missing Positive	| [Link](	https://leetcode.com/problems/first-missing-positive	) | Done | 	Array
+| 14 |	Majority Element II	| [Link](	https://leetcode.com/problems/majority-element-ii	) | Done | 	Array
+| 15 |	Valid Mountain Array	| [Link](	https://leetcode.com/problems/valid-mountain-array	) | Done | 	Array
+| 16 |	Pascal's Triangle	| [Link](	https://leetcode.com/problems/pascals-triangle	) | Done | 	Array
+| 17 |	Max Consecutive Ones	| [Link](	https://leetcode.com/problems/max-consecutive-ones	) | Done | 	Array
+| 18 |	Product of Array Except Self	| [Link](	https://leetcode.com/problems/product-of-array-except-self	) | Done | 	Array
+| 19 |	Shuffle an Array	| [Link](	https://leetcode.com/problems/shuffle-an-array	) | Done | 	Array
 | 20 |	Word Search	| [Link](	https://leetcode.com/problems/word-search	) | PENDING | 	ArrayBacktracking
 | 21 |	Combination Sum III	| [Link](	https://leetcode.com/problems/combination-sum-iii	) | PENDING | 	ArrayBacktracking
 | 22 |	Subsets	| [Link](	https://leetcode.com/problems/subsets	) | PENDING | 	ArrayBacktrackingBit Manipulation
