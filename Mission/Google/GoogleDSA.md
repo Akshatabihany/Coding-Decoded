@@ -29,11 +29,11 @@ These questions are intended for those who are preparing for Google.
 | 23 |	Maximum Side Length of a Square with Sum Less than or Equal to Threshold	| [Link](	https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold	) | Done | 	Array Binary Search
 | 24 |	Find First and Last Position of Element in Sorted Array	| [Link](	https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array	) | Done | 	Array Binary Search
 | 25 |	Search in Rotated Sorted Array	| [Link](	https://leetcode.com/problems/search-in-rotated-sorted-array	) | Done | 	Array Binary Search
-| 26 |	Find Peak Element	| [Link](	https://leetcode.com/problems/find-peak-element	) | PENDING | 	Array Binary Search
-| 27 |	Find Minimum in Rotated Sorted Array	| [Link](	https://leetcode.com/problems/find-minimum-in-rotated-sorted-array	) | PENDING | 	Array Binary Search
-| 28 |	Median of Two Sorted Arrays	| [Link](	https://leetcode.com/problems/median-of-two-sorted-arrays	) | PENDING | 	ArrayBinary SearchDivide and Conquer
-| 29 |	Max Area of Island	| [Link](	https://leetcode.com/problems/max-area-of-island	) | PENDING | 	ArrayDepth-first Search
-| 30 |	Product of the Last K Numbers	| [Link](	https://leetcode.com/problems/product-of-the-last-k-numbers	) | PENDING | 	ArrayDesign
+| 26 |	Find Peak Element	| [Link](	https://leetcode.com/problems/find-peak-element	) | Done | 	Array Binary Search
+| 27 |	Find Minimum in Rotated Sorted Array	| [Link](	https://leetcode.com/problems/find-minimum-in-rotated-sorted-array	) | Done | 	Array Binary Search
+| 28 |	Median of Two Sorted Arrays	| [Link](	https://leetcode.com/problems/median-of-two-sorted-arrays	) | Done | 	ArrayBinary SearchDivide and Conquer
+| 29 |	Max Area of Island	| [Link](	https://leetcode.com/problems/max-area-of-island	) | Done | 	ArrayDepth-first Search
+| 30 |	Product of the Last K Numbers	| [Link](	https://leetcode.com/problems/product-of-the-last-k-numbers	) | Done | 	ArrayDesign
 | 31 |	Majority Element	| [Link](	https://leetcode.com/problems/majority-element	) | PENDING | 	ArrayDivide and ConquerBit Manipulation
 | 32 |	Maximum Subarray	| [Link](	https://leetcode.com/problems/maximum-subarray	) | PENDING | 	ArrayDivide and ConquerDynamic Programming
 | 33 |	Count Square Submatrices with All Ones	| [Link](	https://leetcode.com/problems/count-square-submatrices-with-all-ones	) | PENDING | 	ArrayDynamic Programming
