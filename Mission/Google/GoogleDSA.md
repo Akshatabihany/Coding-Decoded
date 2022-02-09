@@ -26,9 +26,9 @@ These questions are intended for those who are preparing for Google.
 | 20 |	Word Search	| [Link](	https://leetcode.com/problems/word-search	) | Done | 	ArrayBacktracking
 | 21 |	Combination Sum III	| [Link](	https://leetcode.com/problems/combination-sum-iii	) | Done | 	ArrayBacktracking
 | 22 |	Subsets	| [Link](	https://leetcode.com/problems/subsets	) | Done | 	ArrayBacktrackingBit Manipulation
-| 23 |	Maximum Side Length of a Square with Sum Less than or Equal to Threshold	| [Link](	https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold	) | PENDING | 	Array Binary Search
-| 24 |	Find First and Last Position of Element in Sorted Array	| [Link](	https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array	) | PENDING | 	Array Binary Search
-| 25 |	Search in Rotated Sorted Array	| [Link](	https://leetcode.com/problems/search-in-rotated-sorted-array	) | PENDING | 	Array Binary Search
+| 23 |	Maximum Side Length of a Square with Sum Less than or Equal to Threshold	| [Link](	https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold	) | Done | 	Array Binary Search
+| 24 |	Find First and Last Position of Element in Sorted Array	| [Link](	https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array	) | Done | 	Array Binary Search
+| 25 |	Search in Rotated Sorted Array	| [Link](	https://leetcode.com/problems/search-in-rotated-sorted-array	) | Done | 	Array Binary Search
 | 26 |	Find Peak Element	| [Link](	https://leetcode.com/problems/find-peak-element	) | PENDING | 	Array Binary Search
 | 27 |	Find Minimum in Rotated Sorted Array	| [Link](	https://leetcode.com/problems/find-minimum-in-rotated-sorted-array	) | PENDING | 	Array Binary Search
 | 28 |	Median of Two Sorted Arrays	| [Link](	https://leetcode.com/problems/median-of-two-sorted-arrays	) | PENDING | 	ArrayBinary SearchDivide and Conquer
