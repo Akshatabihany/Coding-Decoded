@@ -36,14 +36,14 @@ These questions are intended for those who are preparing for Google.
 | 30 |	Product of the Last K Numbers	| [Link](	https://leetcode.com/problems/product-of-the-last-k-numbers	) | Done | 	ArrayDesign
 | 31 |	Majority Element	| [Link](	https://leetcode.com/problems/majority-element	) | Done | 	ArrayDivide and ConquerBit Manipulation
 | 32 |	Maximum Subarray	| [Link](	https://leetcode.com/problems/maximum-subarray	) | Done | 	ArrayDivide and ConquerDynamic Programming
-| 33 |	Count Square Submatrices with All Ones	| [Link](	https://leetcode.com/problems/count-square-submatrices-with-all-ones	) | PENDING | 	ArrayDynamic Programming
-| 34 |	Maximum Product Subarray	| [Link](	https://leetcode.com/problems/maximum-product-subarray	) | PENDING | 	ArrayDynamic Programming
-| 35 |	Maximum Sum of 3 Non-Overlapping Subarrays	| [Link](	https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays	) | PENDING | 	ArrayDynamic Programming
-| 36 |	Minimum Path Sum	| [Link](	https://leetcode.com/problems/minimum-path-sum	) | PENDING | 	ArrayDynamic Programming
-| 37 |	Best Time to Buy and Sell Stock	| [Link](	https://leetcode.com/problems/best-time-to-buy-and-sell-stock	) | PENDING | 	ArrayDynamic Programming
-| 38 |	Unique Paths	| [Link](	https://leetcode.com/problems/unique-paths	) | PENDING | 	ArrayDynamic Programming
-| 39 |	Maximum Points You Can Obtain from Cards	| [Link](	https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards	) | PENDING | 	ArrayDynamic ProgrammingSliding Window
-| 40 |	Number of Submatrices That Sum to Target	| [Link](	https://leetcode.com/problems/number-of-submatrices-that-sum-to-target	) | PENDING | 	ArrayDynamic ProgrammingSliding Window
+| 33 |	Count Square Submatrices with All Ones	| [Link](	https://leetcode.com/problems/count-square-submatrices-with-all-ones	) | Done | 	ArrayDynamic Programming
+| 34 |	Maximum Product Subarray	| [Link](	https://leetcode.com/problems/maximum-product-subarray	) | Done | 	ArrayDynamic Programming
+| 35 |	Maximum Sum of 3 Non-Overlapping Subarrays	| [Link](	https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays	) | Done | 	ArrayDynamic Programming
+| 36 |	Minimum Path Sum	| [Link](	https://leetcode.com/problems/minimum-path-sum	) | Done | 	ArrayDynamic Programming
+| 37 |	Best Time to Buy and Sell Stock	| [Link](	https://leetcode.com/problems/best-time-to-buy-and-sell-stock	) | Done | 	ArrayDynamic Programming
+| 38 |	Unique Paths	| [Link](	https://leetcode.com/problems/unique-paths	) | Done | 	ArrayDynamic Programming
+| 39 |	Maximum Points You Can Obtain from Cards	| [Link](	https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards	) | Done | 	ArrayDynamic ProgrammingSliding Window
+| 40 |	Number of Submatrices That Sum to Target	| [Link](	https://leetcode.com/problems/number-of-submatrices-that-sum-to-target	) | Done | 	ArrayDynamic ProgrammingSliding Window
 | 41 |	Divide Array in Sets of K Consecutive Numbers	| [Link](	https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers	) | PENDING | 	ArrayGreedy
 | 42 |	Jump Game II	| [Link](	https://leetcode.com/problems/jump-game-ii	) | PENDING | 	ArrayGreedy
 | 43 |	Minimum Domino Rotations For Equal Row	| [Link](	https://leetcode.com/problems/minimum-domino-rotations-for-equal-row	) | PENDING | 	ArrayGreedy
