@@ -44,25 +44,25 @@ These questions are intended for those who are preparing for Google.
 | 38 |	Unique Paths	| [Link](	https://leetcode.com/problems/unique-paths	) | Done | 	ArrayDynamic Programming
 | 39 |	Maximum Points You Can Obtain from Cards	| [Link](	https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards	) | Done | 	ArrayDynamic ProgrammingSliding Window
 | 40 |	Number of Submatrices That Sum to Target	| [Link](	https://leetcode.com/problems/number-of-submatrices-that-sum-to-target	) | Done | 	ArrayDynamic ProgrammingSliding Window
-| 41 |	Divide Array in Sets of K Consecutive Numbers	| [Link](	https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers	) | PENDING | 	ArrayGreedy
-| 42 |	Jump Game II	| [Link](	https://leetcode.com/problems/jump-game-ii	) | PENDING | 	ArrayGreedy
-| 43 |	Minimum Domino Rotations For Equal Row	| [Link](	https://leetcode.com/problems/minimum-domino-rotations-for-equal-row	) | PENDING | 	ArrayGreedy
-| 44 |	Task Scheduler	| [Link](	https://leetcode.com/problems/task-scheduler	) | PENDING | 	ArrayGreedyQueue
-| 45 |	Two Sum	| [Link](	https://leetcode.com/problems/two-sum	) | PENDING | 	ArrayHash Table
-| 46 |	Subarray Sum Equals K	| [Link](	https://leetcode.com/problems/subarray-sum-equals-k	) | PENDING | 	ArrayHash Table
-| 47 |	Contains Duplicate II	| [Link](	https://leetcode.com/problems/contains-duplicate-ii	) | PENDING | 	ArrayHash Table
-| 48 |	Insert Delete GetRandom O(1)	| [Link](	https://leetcode.com/problems/insert-delete-getrandom-o1	) | PENDING | 	ArrayHash TableDesign
-| 49 |	Maximal Rectangle	| [Link](	https://leetcode.com/problems/maximal-rectangle	) | PENDING | 	ArrayHash TableDynamic ProgrammingStack
-| 50 |	X of a Kind in a Deck of Cards	| [Link](	https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards	) | PENDING | 	ArrayMath
-| 51 |	Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit	| [Link](	https://leetcode.com/problems/student-attendance-record-ii	) | PENDING | 	Array Sliding Window
-| 52 |	Max Value of Equation	| [Link](	https://leetcode.com/problems/max-value-of-equation	) | PENDING | 	Array Sliding Window
-| 53 |	Insert Interval	| [Link](	https://leetcode.com/problems/insert-interval	) | PENDING | 	Array Sort
-| 54 |	Merge Intervals	| [Link](	https://leetcode.com/problems/merge-intervals	) | PENDING | 	Array Sort
-| 55 |	Sum of Subarray Minimums	| [Link](	https://leetcode.com/problems/sum-of-subarray-minimums	) | PENDING | 	Array Stack
-| 56 |	Largest Rectangle in Histogram	| [Link](	https://leetcode.com/problems/largest-rectangle-in-histogram	) | PENDING | 	Array Stack
-| 57 |	Compare Strings by Frequency of the Smallest Character	| [Link](	https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character	) | PENDING | 	ArrayString
-| 58 |	Construct Binary Tree from Preorder and Inorder Traversal	| [Link](	https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal	) | PENDING | 	Array Tree Depth-first Search
-| 59 |	Candy Crush	| [Link](	https://leetcode.com/problems/candy-crush	) | PENDING | 	ArrayTwo Pointers
+| 41 |	Divide Array in Sets of K Consecutive Numbers	| [Link](	https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers	) | Done | 	ArrayGreedy
+| 42 |	Jump Game II	| [Link](	https://leetcode.com/problems/jump-game-ii	) | Done | 	ArrayGreedy
+| 43 |	Minimum Domino Rotations For Equal Row	| [Link](	https://leetcode.com/problems/minimum-domino-rotations-for-equal-row	) | Done | 	ArrayGreedy
+| 44 |	Task Scheduler	| [Link](	https://leetcode.com/problems/task-scheduler	) | Done | 	ArrayGreedyQueue
+| 45 |	Two Sum	| [Link](	https://leetcode.com/problems/two-sum	) | Done | 	ArrayHash Table
+| 46 |	Subarray Sum Equals K	| [Link](	https://leetcode.com/problems/subarray-sum-equals-k	) | Done | 	ArrayHash Table
+| 47 |	Contains Duplicate II	| [Link](	https://leetcode.com/problems/contains-duplicate-ii	) | Done | 	ArrayHash Table
+| 48 |	Insert Delete GetRandom O(1)	| [Link](	https://leetcode.com/problems/insert-delete-getrandom-o1	) | Done | 	ArrayHash TableDesign
+| 49 |	Maximal Rectangle	| [Link](	https://leetcode.com/problems/maximal-rectangle	) | Done | 	ArrayHash TableDynamic ProgrammingStack
+| 50 |	X of a Kind in a Deck of Cards	| [Link](	https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards	) | Done | 	ArrayMath
+| 51 |	Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit	| [Link](	https://leetcode.com/problems/student-attendance-record-ii	) | Done | 	Array Sliding Window
+| 52 |	Max Value of Equation	| [Link](	https://leetcode.com/problems/max-value-of-equation	) | Done | 	Array Sliding Window
+| 53 |	Insert Interval	| [Link](	https://leetcode.com/problems/insert-interval	) | Done | 	Array Sort
+| 54 |	Merge Intervals	| [Link](	https://leetcode.com/problems/merge-intervals	) | Done | 	Array Sort
+| 55 |	Sum of Subarray Minimums	| [Link](	https://leetcode.com/problems/sum-of-subarray-minimums	) | Done | 	Array Stack
+| 56 |	Largest Rectangle in Histogram	| [Link](	https://leetcode.com/problems/largest-rectangle-in-histogram	) | Done | 	Array Stack
+| 57 |	Compare Strings by Frequency of the Smallest Character	| [Link](	https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character	) | Done | 	ArrayString
+| 58 |	Construct Binary Tree from Preorder and Inorder Traversal	| [Link](	https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal	) | Done | 	Array Tree Depth-first Search
+| 59 |	Candy Crush	| [Link](	https://leetcode.com/problems/candy-crush	) | Done | 	ArrayTwo Pointers
 | 60 |	3Sum Smaller	| [Link](	https://leetcode.com/problems/3sum-smaller	) | PENDING | 	ArrayTwo Pointers
 | 61 |	3Sum	| [Link](	https://leetcode.com/problems/3sum	) | PENDING | 	ArrayTwo Pointers
 | 62 |	Merge Sorted Array	| [Link](	https://leetcode.com/problems/merge-sorted-array	) | PENDING | 	ArrayTwo Pointers
