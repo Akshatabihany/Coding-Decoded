@@ -63,17 +63,17 @@ These questions are intended for those who are preparing for Google.
 | 57 |	Compare Strings by Frequency of the Smallest Character	| [Link](	https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character	) | Done | 	ArrayString
 | 58 |	Construct Binary Tree from Preorder and Inorder Traversal	| [Link](	https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal	) | Done | 	Array Tree Depth-first Search
 | 59 |	Candy Crush	| [Link](	https://leetcode.com/problems/candy-crush	) | Done | 	ArrayTwo Pointers
-| 60 |	3Sum Smaller	| [Link](	https://leetcode.com/problems/3sum-smaller	) | PENDING | 	ArrayTwo Pointers
-| 61 |	3Sum	| [Link](	https://leetcode.com/problems/3sum	) | PENDING | 	ArrayTwo Pointers
-| 62 |	Merge Sorted Array	| [Link](	https://leetcode.com/problems/merge-sorted-array	) | PENDING | 	ArrayTwo Pointers
-| 63 |	Move Zeroes	| [Link](	https://leetcode.com/problems/move-zeroes	) | PENDING | 	ArrayTwo Pointers
-| 64 |	Remove Duplicates from Sorted Array	| [Link](	https://leetcode.com/problems/remove-duplicates-from-sorted-array/	) | PENDING | 	ArrayTwo Pointers
-| 65 |	Minimum Size Subarray Sum	| [Link](	https://leetcode.com/problems/minimum-size-subarray-sum	) | PENDING | 	Array Two Pointers Binary Search
-| 66 |	Longest Consecutive Sequence	| [Link](	https://leetcode.com/problems/longest-consecutive-sequence	) | PENDING | 	Array Union Find
-| 67 |	Brace Expansion	| [Link](	https://leetcode.com/problems/brace-expansion	) | PENDING | 	Backtracking
-| 68 |	Palindrome Partitioning	| [Link](	https://leetcode.com/problems/palindrome-partitioning	) | PENDING | 	Backtracking
-| 69 |	Combinations	| [Link](	https://leetcode.com/problems/combinations	) | PENDING | 	Backtracking
-| 70 |	Permutations	| [Link](	https://leetcode.com/problems/permutations	) | PENDING | 	Backtracking
+| 60 |	3Sum Smaller	| [Link](	https://leetcode.com/problems/3sum-smaller	) | Done | 	ArrayTwo Pointers
+| 61 |	3Sum	| [Link](	https://leetcode.com/problems/3sum	) | Done | 	ArrayTwo Pointers
+| 62 |	Merge Sorted Array	| [Link](	https://leetcode.com/problems/merge-sorted-array	) | Done | 	ArrayTwo Pointers
+| 63 |	Move Zeroes	| [Link](	https://leetcode.com/problems/move-zeroes	) | Done | 	ArrayTwo Pointers
+| 64 |	Remove Duplicates from Sorted Array	| [Link](	https://leetcode.com/problems/remove-duplicates-from-sorted-array/	) | Done | 	ArrayTwo Pointers
+| 65 |	Minimum Size Subarray Sum	| [Link](	https://leetcode.com/problems/minimum-size-subarray-sum	) | Done | 	Array Two Pointers Binary Search
+| 66 |	Longest Consecutive Sequence	| [Link](	https://leetcode.com/problems/longest-consecutive-sequence	) | Done | 	Array Union Find
+| 67 |	Brace Expansion	| [Link](	https://leetcode.com/problems/brace-expansion	) | Done | 	Backtracking
+| 68 |	Palindrome Partitioning	| [Link](	https://leetcode.com/problems/palindrome-partitioning	) | Done | 	Backtracking
+| 69 |	Combinations	| [Link](	https://leetcode.com/problems/combinations	) | Done | 	Backtracking
+| 70 |	Permutations	| [Link](	https://leetcode.com/problems/permutations	) | Done | 	Backtracking
 | 71 |	Unique Paths III	| [Link](	https://leetcode.com/problems/unique-paths-iii	) | PENDING | 	BacktrackingDepth-first Search
 | 72 |	Design Add and Search Words Data Structure	| [Link](	https://leetcode.com/problems/design-add-and-search-words-data-structure	) | PENDING | 	BacktrackingDesignTrie
 | 73 |	Word Search II	| [Link](	https://leetcode.com/problems/word-search-ii	) | PENDING | 	BacktrackingTrie
